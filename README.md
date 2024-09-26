@@ -1,2 +1,1 @@
-This is my own Custom Memory allocator and dellacator (Free)
-This uses Thread(Pthread) to combine the free chunks in the background
+Hey this is logesh . I just wanted to edit the file
